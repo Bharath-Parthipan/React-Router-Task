@@ -8,7 +8,7 @@ import { DataScience } from './Pages/DataScience';
 import { CyberSecurity } from './Pages/CyberSecurity';
 import { Career } from './Pages/Career';
 import { useState } from 'react';
-import data from "../public/Courses.json";
+import data from "./assets/Courses.json";
 import { Footer } from './Components/Footer';
 
 
